@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: #1ba1a1;
+  height: 70px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  left: 0%;
+
+  
+}
+
+.body {
+    display: column;
+    flex-direction: column;
+    margin: 50px 0 30% 0;
+    font-family:'Times New Roman', Times, serif;
+    
+
+}
+
+
+.footer {
+        background: #1ba1a1;
+        color: #1ba1a1;
+        height: px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        left: 0%;
+}
+.question_card {
+ 
+    
+}
+main {
+    padding: 80px 0 80px 0;
+}
